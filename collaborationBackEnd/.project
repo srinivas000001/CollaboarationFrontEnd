@@ -3,6 +3,8 @@
 	<name>collaborationBackEnd</name>
 	<comment></comment>
 	<projects>
+		<project>collaborationControllers</project>
+		<project>collaborationFrontEnd</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
